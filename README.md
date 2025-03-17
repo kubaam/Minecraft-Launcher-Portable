@@ -13,7 +13,7 @@ This batch script enables you to run Minecraft portably on any Windows PC. It au
 
 ## 📦 Requirements
 
-- **Operating System**: Windows (tested on Windows 10)
+- **Operating System**: Windows (tested on Windows 10 and 11)
 - **PowerShell**: Pre-installed on most Windows systems
 - **Internet Connection**: Required for the initial launcher download
 
